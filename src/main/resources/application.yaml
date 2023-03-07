@@ -2,9 +2,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/java_idea_szpx?serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://47.109.84.152:3306/java_idea_szpx?serverTimezone=Asia/Shanghai
     username: root
-    password: 135230
+    password: Root@@_135230
     type: com.alibaba.druid.pool.DruidDataSource
 
     # 数据源其它配置
